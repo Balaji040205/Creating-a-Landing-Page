@@ -184,6 +184,6 @@ HTML code:
     font-size: 30px;
     }
 
-html *{
+    html *{
     font-family:"Montserrat";
-}
+    }
